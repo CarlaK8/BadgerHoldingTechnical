@@ -1,0 +1,14 @@
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.exe
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.deps.json
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.runtimeconfig.json
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.runtimeconfig.dev.json
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.dll
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\bin\Debug\netcoreapp3.1\BadgerHoldingsTechnical.pdb
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.csproj.AssemblyReference.cache
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.AssemblyInfoInputs.cache
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.AssemblyInfo.cs
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.csproj.CoreCompileInputs.cache
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.dll
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.pdb
+C:\Users\kotze\source\repos\BadgerHoldingsTechnical\BadgerHoldingsTechnical\obj\Debug\netcoreapp3.1\BadgerHoldingsTechnical.genruntimeconfig.cache
